@@ -15,6 +15,7 @@ h1 {
 	color: #ea292a;
 }
 h3 {
+	color: #ea292a;
 	margin-top: 10px;
 }
 h4 {
@@ -29,7 +30,7 @@ section {
 .circle {
 	width: 50px;
 	height: 50px;
-	border: 2px solid #000;
+	border: 2px solid #ea292a;
 	border-radius: 50%;
 	margin-bottom: 10px;
 }
@@ -42,4 +43,13 @@ section {
 .col-md-6 > img {
 	height: 300px;
 	width: auto;
+}
+.btn {
+	border-color: #ea292a;
+	background-color: #ea292a;
+}
+
+.btn:hover {
+	border-color: #f06768;
+	background-color: #f06768;
 }
