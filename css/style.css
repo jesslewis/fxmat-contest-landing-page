@@ -53,3 +53,16 @@ section {
 	border-color: #f06768;
 	background-color: #f06768;
 }
+
+@media screen and (max-width: 767px) {
+
+	h1 {
+		font-size: 2.45em;
+		color: #ea292a;
+	}
+
+	.carousel-indicators {
+		display: none;
+	}
+
+}
