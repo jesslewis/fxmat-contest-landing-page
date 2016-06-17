@@ -66,4 +66,16 @@ section {
 		display: none;
 	}
 
+	.container {
+		text-align: center;
+	}
+
+	.circle {
+		margin: 10px auto;
+	}
+
+	.example-img {
+		margin: 0 auto;
+	}
+
 }
